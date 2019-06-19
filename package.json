@@ -1,0 +1,15 @@
+{
+  "name": "parcel-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "parcel": "^1.12.3",
+    "sass": "^1.21.0"
+  },
+  "scripts": {
+    "babel": "yarn parcel src/js/main.js -d public/js",
+    "scss": "yarn parcel src/scss/style.scss -d public/css"
+  }
+}
