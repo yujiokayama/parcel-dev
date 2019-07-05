@@ -1,0 +1,11 @@
+#main-contents {
+  display: -webkit-flex;
+  display: flex;
+  color: aquamarine;
+}
+
+div p {
+  color: black;
+}
+
+/*# sourceMappingURL=/style.css.map */
